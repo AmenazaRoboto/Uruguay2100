@@ -16,4 +16,4 @@ Project description: First report about the impact assessment of flood damage in
 
 
 Flooding surfaces available at https://www.ambiente.gub.uy/oan/datos-abiertos/
-(Floosing surface: each File size is > 1Gb)
+(Flooding surface: each File size is > 1Gb)
