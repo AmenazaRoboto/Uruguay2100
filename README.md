@@ -9,8 +9,8 @@ Metadata file (description in spanish)
 
 Web page: https://amenazaroboto.com/uruguay_2100
 
-Descripción del proyecto: Primer informe sobre la evaluación del impacto de los daños por inundaciones en diferentes zonas costeras de Uruguay utilizando los Escenarios de Cambio Climático RCP 8.5 bajo una perspectiva de género y generaciones. Caso de estudio: Montevideo.
+Descripción del proyecto: Primer informe sobre la evaluación del impacto de los daños por inundaciones en diferentes zonas costeras de Uruguay utilizando los Escenarios de Cambio Climático RCP 8.5 bajo una perspectiva de género y generaciones. Capítulo 1: Montevideo.
 
-Project description: First report about the impact assessment of flood damage in different coastal areas of Uruguay using the RCP 8.5 Climate Change Scenarios under a gender and generations perspective. Study case: Montevideo.
+Project description: First report about the impact assessment of flood damage in different coastal areas of Uruguay using the RCP 8.5 Climate Change Scenarios under a gender and generations perspective. Chapter 1: Montevideo.
 
 
