@@ -7,7 +7,7 @@ Open data used in the Uruguay2100 Project submitted to the Open Climate Data con
 Metadata file (description in spanish)
 
 
-Web page: https://amenazaroboto.com/uruguay_2100
+Web page: https://amenazaroboto.com/uruguay2100/montevideo
 
 Descripción del proyecto: Primer informe sobre la evaluación del impacto de los daños por inundaciones en diferentes zonas costeras de Uruguay utilizando los Escenarios de Cambio Climático RCP 8.5 bajo una perspectiva de género y generaciones. Capítulo 1: Montevideo.
 
