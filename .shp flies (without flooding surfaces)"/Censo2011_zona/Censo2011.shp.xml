@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata xml:lang="es"><Esri><CreaDate>20221109</CreaDate><CreaTime>11284400</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.3\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20221109" Time="112844">CalculateField Censo2011 P_m2 "[P_TOT] / [AREA]" VB #</Process></lineage></DataProperties></Esri></metadata>
