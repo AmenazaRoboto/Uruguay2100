@@ -8,5 +8,5 @@ Pagina web:
 Web page:
 
 
-Metadata desccription in spanish.
+Metadata file (description in spanish)
 
