@@ -14,3 +14,6 @@ Descripción del proyecto: Primer informe sobre la evaluación del impacto de lo
 Project description: First report about the impact assessment of flood damage in different coastal areas of Uruguay using the RCP 8.5 Climate Change Scenarios under a gender and generations perspective. Chapter 1: Montevideo.
 
 
+
+Flooding surfaces available at https://www.ambiente.gub.uy/oan/datos-abiertos/
+(Floosing surface: each File size is > 1Gb)
